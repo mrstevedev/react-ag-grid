@@ -6,9 +6,7 @@ import { LicenseManager } from "ag-grid-enterprise";
 import "ag-grid-community/styles/ag-grid.css";
 import "ag-grid-community/styles/ag-theme-alpine.css";
 
-LicenseManager.setLicenseKey(
-    "ag-Grid_Evaluation_License_Not_for_Production_100Devs30_August_2037__MjU4ODczMzg3NzkyMg==9e93ed5f03b0620b142770f2594a23a2"
-);
+LicenseManager.setLicenseKey(process.env.VITE_APP_AG_GRID_KEY as string);
 
 import Api from "./services";
 import { ICar } from "./types";
