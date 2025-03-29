@@ -1,0 +1,1712 @@
+{
+  "cars": [
+    {
+      "id": "1",
+      "year": 2006,
+      "make": "MINI",
+      "model": "Convertible",
+      "type": "Convertible"
+    },
+    {
+      "id": "2",
+      "year": 2019,
+      "make": "Volvo",
+      "model": "XC90",
+      "type": "SUV"
+    },
+    {
+      "id": "3",
+      "year": 1999,
+      "make": "Ford",
+      "model": "Taurus",
+      "type": "Sedan, Wagon"
+    },
+    {
+      "id": "4",
+      "year": 2020,
+      "make": "Volvo",
+      "model": "XC60",
+      "type": "SUV"
+    },
+    {
+      "id": "5",
+      "year": 2006,
+      "make": "HUMMER",
+      "model": "H2",
+      "type": "SUV, Pickup"
+    },
+    {
+      "id": "6",
+      "year": 2016,
+      "make": "GMC",
+      "model": "Sierra 1500 Crew Cab",
+      "type": "Pickup"
+    },
+    {
+      "id": "7",
+      "year": 2008,
+      "make": "GMC",
+      "model": "Canyon Crew Cab",
+      "type": "Pickup"
+    },
+    {
+      "id": "8",
+      "year": 2016,
+      "make": "Subaru",
+      "model": "Outback",
+      "type": "SUV"
+    },
+    {
+      "id": "9",
+      "year": 2010,
+      "make": "Mitsubishi",
+      "model": "Outlander",
+      "type": "SUV"
+    },
+    {
+      "id": "10",
+      "year": 1998,
+      "make": "Dodge",
+      "model": "Ram Van 1500",
+      "type": "Van/Minivan"
+    },
+    {
+      "id": "11",
+      "year": 2014,
+      "make": "Nissan",
+      "model": "Pathfinder",
+      "type": "SUV"
+    },
+    {
+      "id": "12",
+      "year": 2014,
+      "make": "Honda",
+      "model": "Civic",
+      "type": "Sedan, Coupe"
+    },
+    {
+      "id": "13",
+      "year": 2009,
+      "make": "Subaru",
+      "model": "Outback",
+      "type": "Wagon"
+    },
+    {
+      "id": "14",
+      "year": 2009,
+      "make": "Lincoln",
+      "model": "Navigator L",
+      "type": "SUV"
+    },
+    {
+      "id": "15",
+      "year": 2000,
+      "make": "GMC",
+      "model": "Yukon Denali",
+      "type": "SUV"
+    },
+    {
+      "id": "16",
+      "year": 2007,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "type": "SUV"
+    },
+    {
+      "id": "17",
+      "year": 2018,
+      "make": "BMW",
+      "model": "7 Series",
+      "type": "Sedan"
+    },
+    {
+      "id": "18",
+      "year": 1992,
+      "make": "Dodge",
+      "model": "Caravan Passenger",
+      "type": "Van/Minivan"
+    },
+    {
+      "id": "19",
+      "year": 2008,
+      "make": "Hyundai",
+      "model": "Accent",
+      "type": "Sedan, Hatchback"
+    },
+    {
+      "id": "20",
+      "year": 2017,
+      "make": "Nissan",
+      "model": "Frontier King Cab",
+      "type": "Pickup"
+    },
+    {
+      "id": "21",
+      "year": 2019,
+      "make": "Nissan",
+      "model": "Altima",
+      "type": "Sedan"
+    },
+    {
+      "id": "22",
+      "year": 2018,
+      "make": "Honda",
+      "model": "Clarity Plug-in Hybrid",
+      "type": "Sedan"
+    },
+    {
+      "id": "23",
+      "year": 2014,
+      "make": "Buick",
+      "model": "Verano",
+      "type": "Sedan"
+    },
+    {
+      "id": "24",
+      "year": 2007,
+      "make": "Bentley",
+      "model": "Azure",
+      "type": "Convertible"
+    },
+    {
+      "id": "25",
+      "year": 2017,
+      "make": "Lexus",
+      "model": "RC",
+      "type": "Coupe"
+    },
+    {
+      "id": "26",
+      "year": 2012,
+      "make": "Chevrolet",
+      "model": "Sonic",
+      "type": "Sedan, Hatchback"
+    },
+    {
+      "id": "27",
+      "year": 2013,
+      "make": "Nissan",
+      "model": "NV2500 HD Cargo",
+      "type": "Van/Minivan"
+    },
+    {
+      "id": "28",
+      "year": 1995,
+      "make": "GMC",
+      "model": "Sonoma Club Coupe Cab",
+      "type": "Pickup"
+    },
+    {
+      "id": "29",
+      "year": 2007,
+      "make": "Jaguar",
+      "model": "X-Type",
+      "type": "Sedan, Wagon"
+    },
+    {
+      "id": "30",
+      "year": 2004,
+      "make": "Mercedes-Benz",
+      "model": "SL-Class",
+      "type": "Convertible"
+    },
+    {
+      "id": "31",
+      "year": 1995,
+      "make": "Chevrolet",
+      "model": "Sportvan G30",
+      "type": "Van/Minivan"
+    },
+    {
+      "id": "32",
+      "year": 2004,
+      "make": "GMC",
+      "model": "Sierra 2500 HD Crew Cab",
+      "type": "Pickup"
+    },
+    {
+      "id": "33",
+      "year": 2016,
+      "make": "Volkswagen",
+      "model": "e-Golf",
+      "type": "Hatchback"
+    },
+    {
+      "id": "34",
+      "year": 2010,
+      "make": "Aston Martin",
+      "model": "DBS",
+      "type": "Coupe, Convertible"
+    },
+    {
+      "id": "35",
+      "year": 1996,
+      "make": "Chevrolet",
+      "model": "Beretta",
+      "type": "Coupe"
+    },
+    {
+      "id": "36",
+      "year": 2020,
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "type": "SUV"
+    },
+    {
+      "id": "37",
+      "year": 1996,
+      "make": "Pontiac",
+      "model": "Firebird",
+      "type": "Convertible, Hatchback"
+    },
+    {
+      "id": "38",
+      "year": 2011,
+      "make": "Cadillac",
+      "model": "SRX",
+      "type": "SUV"
+    },
+    {
+      "id": "39",
+      "year": 2011,
+      "make": "Ford",
+      "model": "E350 Super Duty Cargo",
+      "type": "Van/Minivan"
+    },
+    {
+      "id": "40",
+      "year": 2015,
+      "make": "Nissan",
+      "model": "Frontier Crew Cab",
+      "type": "Pickup"
+    },
+    {
+      "id": "41",
+      "year": 2003,
+      "make": "Ford",
+      "model": "F250 Super Duty Super Cab",
+      "type": "Pickup"
+    },
+    {
+      "id": "42",
+      "year": 2017,
+      "make": "Ford",
+      "model": "Escape",
+      "type": "SUV"
+    },
+    {
+      "id": "43",
+      "year": 2019,
+      "make": "Volkswagen",
+      "model": "Golf SportWagen",
+      "type": "Wagon"
+    },
+    {
+      "id": "44",
+      "year": 2019,
+      "make": "FIAT",
+      "model": "500 Abarth",
+      "type": "Hatchback"
+    },
+    {
+      "id": "45",
+      "year": 1994,
+      "make": "Saab",
+      "model": "9000",
+      "type": "Sedan, Hatchback"
+    },
+    {
+      "id": "46",
+      "year": 2006,
+      "make": "Kia",
+      "model": "Sorento",
+      "type": "SUV"
+    },
+    {
+      "id": "47",
+      "year": 2009,
+      "make": "Lamborghini",
+      "model": "Murcielago",
+      "type": "Coupe, Convertible"
+    },
+    {
+      "id": "48",
+      "year": 2020,
+      "make": "Kia",
+      "model": "Rio",
+      "type": "Sedan, Hatchback"
+    },
+    {
+      "id": "49",
+      "year": 2011,
+      "make": "Audi",
+      "model": "A5",
+      "type": "Coupe, Convertible"
+    },
+    {
+      "id": "50",
+      "year": 2018,
+      "make": "GMC",
+      "model": "Sierra 2500 HD Crew Cab",
+      "type": "Pickup"
+    },
+    {
+      "id": "51",
+      "year": 1994,
+      "make": "Audi",
+      "model": "100",
+      "type": "Sedan, Wagon"
+    },
+    {
+      "id": "52",
+      "year": 2001,
+      "make": "BMW",
+      "model": "Z8",
+      "type": "Convertible"
+    },
+    {
+      "id": "53",
+      "year": 1999,
+      "make": "Pontiac",
+      "model": "Grand Am",
+      "type": "Sedan, Coupe"
+    },
+    {
+      "id": "54",
+      "year": 2015,
+      "make": "Mercedes-Benz",
+      "model": "GL-Class",
+      "type": "SUV"
+    },
+    {
+      "id": "55",
+      "year": 2011,
+      "make": "Nissan",
+      "model": "Titan Crew Cab",
+      "type": "Pickup"
+    },
+    {
+      "id": "56",
+      "year": 2019,
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "type": "SUV"
+    },
+    {
+      "id": "57",
+      "year": 2008,
+      "make": "Subaru",
+      "model": "Tribeca",
+      "type": "SUV"
+    },
+    {
+      "id": "58",
+      "year": 2007,
+      "make": "Jeep",
+      "model": "Grand Cherokee",
+      "type": "SUV"
+    },
+    {
+      "id": "59",
+      "year": 1994,
+      "make": "Dodge",
+      "model": "Dakota Regular Cab",
+      "type": "Pickup"
+    },
+    {
+      "id": "60",
+      "year": 1995,
+      "make": "Honda",
+      "model": "del Sol",
+      "type": "Coupe"
+    },
+    {
+      "id": "61",
+      "year": 2010,
+      "make": "MAZDA",
+      "model": "RX-8",
+      "type": "Coupe"
+    },
+    {
+      "id": "62",
+      "year": 2012,
+      "make": "Chevrolet",
+      "model": "Tahoe",
+      "type": "SUV"
+    },
+    {
+      "id": "63",
+      "year": 2017,
+      "make": "Land Rover",
+      "model": "Range Rover Evoque",
+      "type": "SUV"
+    },
+    {
+      "id": "64",
+      "year": 2005,
+      "make": "GMC",
+      "model": "Envoy",
+      "type": "SUV"
+    },
+    {
+      "id": "65",
+      "year": 2013,
+      "make": "GMC",
+      "model": "Yukon",
+      "type": "SUV"
+    },
+    {
+      "id": "66",
+      "year": 2011,
+      "make": "Suzuki",
+      "model": "Grand Vitara",
+      "type": "SUV"
+    },
+    {
+      "id": "67",
+      "year": 1995,
+      "make": "Dodge",
+      "model": "Ram 3500 Club Cab",
+      "type": "Pickup"
+    },
+    {
+      "id": "68",
+      "year": 2007,
+      "make": "Toyota",
+      "model": "Tacoma Access Cab",
+      "type": "Pickup"
+    },
+    {
+      "id": "69",
+      "year": 2019,
+      "make": "Ford",
+      "model": "Transit 150 Wagon",
+      "type": "Van/Minivan"
+    },
+    {
+      "id": "70",
+      "year": 2016,
+      "make": "Acura",
+      "model": "MDX",
+      "type": "SUV"
+    },
+    {
+      "id": "71",
+      "year": 2013,
+      "make": "Nissan",
+      "model": "Quest",
+      "type": "Van/Minivan"
+    },
+    {
+      "id": "72",
+      "year": 2019,
+      "make": "Jaguar",
+      "model": "XF",
+      "type": "Sedan, Wagon"
+    },
+    {
+      "id": "73",
+      "year": 1998,
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "type": "Coupe, Convertible"
+    },
+    {
+      "id": "74",
+      "year": 2006,
+      "make": "Ford",
+      "model": "F350 Super Duty Super Cab",
+      "type": "Pickup"
+    },
+    {
+      "id": "75",
+      "year": 2017,
+      "make": "Audi",
+      "model": "A4",
+      "type": "Sedan"
+    },
+    {
+      "id": "76",
+      "year": 1995,
+      "make": "Acura",
+      "model": "Integra",
+      "type": "Sedan, Hatchback"
+    },
+    {
+      "id": "77",
+      "year": 2006,
+      "make": "Saturn",
+      "model": "VUE",
+      "type": "SUV"
+    },
+    {
+      "id": "78",
+      "year": 2020,
+      "make": "Chrysler",
+      "model": "Voyager",
+      "type": "Van/Minivan"
+    },
+    {
+      "id": "79",
+      "year": 2013,
+      "make": "Cadillac",
+      "model": "SRX",
+      "type": "SUV"
+    },
+    {
+      "id": "80",
+      "year": 2003,
+      "make": "Hyundai",
+      "model": "Elantra",
+      "type": "Sedan, Hatchback"
+    },
+    {
+      "id": "81",
+      "year": 1997,
+      "make": "Isuzu",
+      "model": "Hombre Regular Cab",
+      "type": "Pickup"
+    },
+    {
+      "id": "82",
+      "year": 2000,
+      "make": "Dodge",
+      "model": "Ram 3500 Quad Cab",
+      "type": "Pickup"
+    },
+    {
+      "id": "83",
+      "year": 2005,
+      "make": "Ford",
+      "model": "Escape",
+      "type": "SUV"
+    },
+    {
+      "id": "84",
+      "year": 2000,
+      "make": "Chevrolet",
+      "model": "3500 Extended Cab",
+      "type": "Pickup"
+    },
+    {
+      "id": "85",
+      "year": 2015,
+      "make": "GMC",
+      "model": "Sierra 3500 HD Regular Cab",
+      "type": "Pickup"
+    },
+    {
+      "id": "86",
+      "year": 2005,
+      "make": "Nissan",
+      "model": "Maxima",
+      "type": "Sedan"
+    },
+    {
+      "id": "87",
+      "year": 2004,
+      "make": "Toyota",
+      "model": "4Runner",
+      "type": "SUV"
+    },
+    {
+      "id": "88",
+      "year": 2013,
+      "make": "Dodge",
+      "model": "Dart",
+      "type": "Sedan"
+    },
+    {
+      "id": "89",
+      "year": 2005,
+      "make": "GMC",
+      "model": "Envoy XL",
+      "type": "SUV"
+    },
+    {
+      "id": "90",
+      "year": 1997,
+      "make": "Honda",
+      "model": "Civic",
+      "type": "Sedan, Coupe, Hatchback"
+    },
+    {
+      "id": "91",
+      "year": 2016,
+      "make": "Hyundai",
+      "model": "Tucson",
+      "type": "SUV"
+    },
+    {
+      "id": "92",
+      "year": 1994,
+      "make": "Hyundai",
+      "model": "Excel",
+      "type": "Sedan, Hatchback"
+    },
+    {
+      "id": "93",
+      "year": 2006,
+      "make": "Honda",
+      "model": "Accord",
+      "type": "Sedan, Coupe"
+    },
+    {
+      "id": "94",
+      "year": 2019,
+      "make": "Ford",
+      "model": "Transit 250 Van",
+      "type": "Van/Minivan"
+    },
+    {
+      "id": "95",
+      "year": 1992,
+      "make": "Honda",
+      "model": "Accord",
+      "type": "Sedan, Coupe, Wagon"
+    },
+    {
+      "id": "96",
+      "year": 2009,
+      "make": "Chevrolet",
+      "model": "Silverado 2500 HD Regular Cab",
+      "type": "Pickup"
+    },
+    {
+      "id": "97",
+      "year": 2004,
+      "make": "Chevrolet",
+      "model": "Silverado 3500 Extended Cab",
+      "type": "Pickup"
+    },
+    {
+      "id": "98",
+      "year": 2015,
+      "make": "BMW",
+      "model": "i3",
+      "type": "Hatchback"
+    },
+    {
+      "id": "99",
+      "year": 2020,
+      "make": "Ford",
+      "model": "Expedition",
+      "type": "SUV"
+    },
+    {
+      "id": "100",
+      "year": 2018,
+      "make": "Cadillac",
+      "model": "CTS-V",
+      "type": "Sedan"
+    },
+    {
+      "id": "101",
+      "year": 2010,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "type": "SUV"
+    },
+    {
+      "id": "102",
+      "year": 2007,
+      "make": "Suzuki",
+      "model": "SX4",
+      "type": "Hatchback"
+    },
+    {
+      "id": "103",
+      "year": 2006,
+      "make": "Mercedes-Benz",
+      "model": "SLK-Class",
+      "type": "Convertible"
+    },
+    {
+      "id": "104",
+      "year": 2014,
+      "make": "Bentley",
+      "model": "Mulsanne",
+      "type": "Sedan"
+    },
+    {
+      "id": "105",
+      "year": 2016,
+      "make": "Audi",
+      "model": "S8",
+      "type": "Sedan"
+    },
+    {
+      "id": "106",
+      "year": 2011,
+      "make": "GMC",
+      "model": "Savana 2500 Passenger",
+      "type": "Van/Minivan"
+    },
+    {
+      "id": "107",
+      "year": 2017,
+      "make": "Hyundai",
+      "model": "Ioniq Hybrid",
+      "type": "Hatchback"
+    },
+    {
+      "id": "108",
+      "year": 2012,
+      "make": "GMC",
+      "model": "Savana 2500 Passenger",
+      "type": "Van/Minivan"
+    },
+    {
+      "id": "109",
+      "year": 2015,
+      "make": "Mercedes-Benz",
+      "model": "B-Class",
+      "type": "Hatchback"
+    },
+    {
+      "id": "110",
+      "year": 2008,
+      "make": "Chevrolet",
+      "model": "Silverado 3500 HD Crew Cab",
+      "type": "Pickup"
+    },
+    {
+      "id": "111",
+      "year": 2009,
+      "make": "Ferrari",
+      "model": "430 Scuderia",
+      "type": "Coupe, Convertible"
+    },
+    {
+      "id": "112",
+      "year": 2018,
+      "make": "Nissan",
+      "model": "NV200",
+      "type": "Van/Minivan"
+    },
+    {
+      "id": "113",
+      "year": 2014,
+      "make": "Chevrolet",
+      "model": "Impala Limited",
+      "type": "Sedan"
+    },
+    {
+      "id": "114",
+      "year": 2011,
+      "make": "Audi",
+      "model": "Q5",
+      "type": "SUV"
+    },
+    {
+      "id": "115",
+      "year": 2013,
+      "make": "Land Rover",
+      "model": "Range Rover",
+      "type": "SUV"
+    },
+    {
+      "id": "116",
+      "year": 2013,
+      "make": "Jaguar",
+      "model": "XF",
+      "type": "Sedan"
+    },
+    {
+      "id": "117",
+      "year": 2019,
+      "make": "Tesla",
+      "model": "Model 3",
+      "type": "Sedan"
+    },
+    {
+      "id": "118",
+      "year": 2005,
+      "make": "Nissan",
+      "model": "Altima",
+      "type": "Sedan"
+    },
+    {
+      "id": "119",
+      "year": 2007,
+      "make": "Cadillac",
+      "model": "SRX",
+      "type": "SUV"
+    },
+    {
+      "id": "120",
+      "year": 2010,
+      "make": "Lexus",
+      "model": "LS",
+      "type": "Sedan"
+    },
+    {
+      "id": "121",
+      "year": 2004,
+      "make": "Nissan",
+      "model": "350Z",
+      "type": "Coupe, Convertible"
+    },
+    {
+      "id": "122",
+      "year": 1998,
+      "make": "GMC",
+      "model": "Savana 1500 Passenger",
+      "type": "Van/Minivan"
+    },
+    {
+      "id": "123",
+      "year": 2017,
+      "make": "BMW",
+      "model": "i8",
+      "type": "Coupe"
+    },
+    {
+      "id": "124",
+      "year": 2013,
+      "make": "Chevrolet",
+      "model": "Suburban 1500",
+      "type": "SUV"
+    },
+    {
+      "id": "125",
+      "year": 1999,
+      "make": "Lincoln",
+      "model": "Continental",
+      "type": "Sedan"
+    },
+    {
+      "id": "126",
+      "year": 2018,
+      "make": "Lincoln",
+      "model": "MKZ",
+      "type": "Sedan"
+    },
+    {
+      "id": "127",
+      "year": 2009,
+      "make": "Toyota",
+      "model": "FJ Cruiser",
+      "type": "SUV"
+    },
+    {
+      "id": "128",
+      "year": 1996,
+      "make": "Chevrolet",
+      "model": "Lumina",
+      "type": "Sedan"
+    },
+    {
+      "id": "129",
+      "year": 2017,
+      "make": "FIAT",
+      "model": "124 Spider",
+      "type": "Convertible"
+    },
+    {
+      "id": "130",
+      "year": 1996,
+      "make": "Acura",
+      "model": "NSX",
+      "type": "Coupe, Convertible"
+    },
+    {
+      "id": "131",
+      "year": 2006,
+      "make": "Dodge",
+      "model": "Sprinter 2500 Passenger",
+      "type": "Van/Minivan"
+    },
+    {
+      "id": "132",
+      "year": 2015,
+      "make": "Kia",
+      "model": "Rio",
+      "type": "Sedan, Hatchback"
+    },
+    {
+      "id": "133",
+      "year": 2005,
+      "make": "Chevrolet",
+      "model": "Silverado 1500 Regular Cab",
+      "type": "Pickup"
+    },
+    {
+      "id": "134",
+      "year": 2015,
+      "make": "Chevrolet",
+      "model": "Spark EV",
+      "type": "Hatchback"
+    },
+    {
+      "id": "135",
+      "year": 2016,
+      "make": "Subaru",
+      "model": "Crosstrek",
+      "type": "SUV"
+    },
+    {
+      "id": "136",
+      "year": 2010,
+      "make": "Chevrolet",
+      "model": "Express 1500 Passenger",
+      "type": "Van/Minivan"
+    },
+    {
+      "id": "137",
+      "year": 1996,
+      "make": "Ford",
+      "model": "Econoline E250 Cargo",
+      "type": "Van/Minivan"
+    },
+    {
+      "id": "138",
+      "year": 2010,
+      "make": "INFINITI",
+      "model": "M",
+      "type": "Sedan"
+    },
+    {
+      "id": "139",
+      "year": 2008,
+      "make": "Chevrolet",
+      "model": "Express 3500 Passenger",
+      "type": "Van/Minivan"
+    },
+    {
+      "id": "140",
+      "year": 1993,
+      "make": "Nissan",
+      "model": "Maxima",
+      "type": "Sedan"
+    },
+    {
+      "id": "141",
+      "year": 2010,
+      "make": "Ford",
+      "model": "Ranger Regular Cab",
+      "type": "Pickup"
+    },
+    {
+      "id": "142",
+      "year": 2017,
+      "make": "GMC",
+      "model": "Canyon Crew Cab",
+      "type": "Pickup"
+    },
+    {
+      "id": "143",
+      "year": 2007,
+      "make": "GMC",
+      "model": "Savana 1500 Passenger",
+      "type": "Van/Minivan"
+    },
+    {
+      "id": "144",
+      "year": 2010,
+      "make": "Bentley",
+      "model": "Azure T",
+      "type": "Convertible"
+    },
+    {
+      "id": "145",
+      "year": 2006,
+      "make": "Chevrolet",
+      "model": "SSR",
+      "type": "Pickup"
+    },
+    {
+      "id": "146",
+      "year": 2018,
+      "make": "GMC",
+      "model": "Yukon",
+      "type": "SUV"
+    },
+    {
+      "id": "147",
+      "year": 1992,
+      "make": "Isuzu",
+      "model": "Spacecab",
+      "type": "Pickup"
+    },
+    {
+      "id": "148",
+      "year": 2014,
+      "make": "GMC",
+      "model": "Sierra 1500 Crew Cab",
+      "type": "Pickup"
+    },
+    {
+      "id": "149",
+      "year": 1999,
+      "make": "Ford",
+      "model": "F150 Super Cab",
+      "type": "Pickup"
+    },
+    {
+      "id": "150",
+      "year": 2005,
+      "make": "Volkswagen",
+      "model": "Passat",
+      "type": "Sedan, Wagon"
+    },
+    {
+      "id": "151",
+      "year": 1998,
+      "make": "GMC",
+      "model": "Sonoma Regular Cab",
+      "type": "Pickup"
+    },
+    {
+      "id": "152",
+      "year": 2006,
+      "make": "Land Rover",
+      "model": "Range Rover Sport",
+      "type": "SUV"
+    },
+    {
+      "id": "153",
+      "year": 2009,
+      "make": "Bentley",
+      "model": "Azure",
+      "type": "Convertible"
+    },
+    {
+      "id": "154",
+      "year": 2009,
+      "make": "Nissan",
+      "model": "Versa",
+      "type": "Sedan, Hatchback"
+    },
+    {
+      "id": "155",
+      "year": 2006,
+      "make": "Mitsubishi",
+      "model": "Eclipse",
+      "type": "Coupe"
+    },
+    {
+      "id": "156",
+      "year": 1999,
+      "make": "Cadillac",
+      "model": "DeVille",
+      "type": "Sedan"
+    },
+    {
+      "id": "157",
+      "year": 1998,
+      "make": "Dodge",
+      "model": "Dakota Regular Cab",
+      "type": "Pickup"
+    },
+    {
+      "id": "158",
+      "year": 2013,
+      "make": "Volvo",
+      "model": "XC70",
+      "type": "Wagon"
+    },
+    {
+      "id": "159",
+      "year": 2005,
+      "make": "Ford",
+      "model": "Expedition",
+      "type": "SUV"
+    },
+    {
+      "id": "160",
+      "year": 2010,
+      "make": "Audi",
+      "model": "A6",
+      "type": "Sedan, Wagon"
+    },
+    {
+      "id": "161",
+      "year": 2012,
+      "make": "Audi",
+      "model": "A5",
+      "type": "Coupe, Convertible"
+    },
+    {
+      "id": "162",
+      "year": 1998,
+      "make": "Ford",
+      "model": "F250 Super Cab",
+      "type": "Pickup"
+    },
+    {
+      "id": "163",
+      "year": 2009,
+      "make": "Chevrolet",
+      "model": "Cobalt",
+      "type": "Sedan, Coupe"
+    },
+    {
+      "id": "164",
+      "year": 1994,
+      "make": "Chevrolet",
+      "model": "2500 Extended Cab",
+      "type": "Pickup"
+    },
+    {
+      "id": "165",
+      "year": 1993,
+      "make": "Oldsmobile",
+      "model": "Achieva",
+      "type": "Sedan, Coupe"
+    },
+    {
+      "id": "166",
+      "year": 2018,
+      "make": "Ford",
+      "model": "F150 Regular Cab",
+      "type": "Pickup"
+    },
+    {
+      "id": "167",
+      "year": 2010,
+      "make": "Honda",
+      "model": "Civic",
+      "type": "Sedan, Coupe"
+    },
+    {
+      "id": "168",
+      "year": 2018,
+      "make": "Toyota",
+      "model": "Yaris",
+      "type": "Hatchback"
+    },
+    {
+      "id": "169",
+      "year": 1997,
+      "make": "Mitsubishi",
+      "model": "Eclipse",
+      "type": "Coupe, Convertible"
+    },
+    {
+      "id": "170",
+      "year": 2002,
+      "make": "GMC",
+      "model": "Safari Passenger",
+      "type": "Van/Minivan"
+    },
+    {
+      "id": "171",
+      "year": 2000,
+      "make": "Lincoln",
+      "model": "Navigator",
+      "type": "SUV"
+    },
+    {
+      "id": "172",
+      "year": 2004,
+      "make": "BMW",
+      "model": "3 Series",
+      "type": "Sedan, Coupe, Convertible, Wagon"
+    },
+    {
+      "id": "173",
+      "year": 2005,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "type": "Sedan, Wagon"
+    },
+    {
+      "id": "174",
+      "year": 2016,
+      "make": "Hyundai",
+      "model": "Sonata",
+      "type": "Sedan"
+    },
+    {
+      "id": "175",
+      "year": 2010,
+      "make": "Volvo",
+      "model": "XC60",
+      "type": "SUV"
+    },
+    {
+      "id": "176",
+      "year": 2020,
+      "make": "Subaru",
+      "model": "Ascent",
+      "type": "SUV"
+    },
+    {
+      "id": "177",
+      "year": 2015,
+      "make": "Hyundai",
+      "model": "Equus",
+      "type": "Sedan"
+    },
+    {
+      "id": "178",
+      "year": 2006,
+      "make": "Chevrolet",
+      "model": "HHR",
+      "type": "Wagon"
+    },
+    {
+      "id": "179",
+      "year": 2005,
+      "make": "Chevrolet",
+      "model": "Uplander Passenger",
+      "type": "Van/Minivan"
+    },
+    {
+      "id": "180",
+      "year": 1997,
+      "make": "Jeep",
+      "model": "Wrangler",
+      "type": "SUV"
+    },
+    {
+      "id": "181",
+      "year": 1993,
+      "make": "GMC",
+      "model": "Rally Wagon 3500",
+      "type": "Van/Minivan"
+    },
+    {
+      "id": "182",
+      "year": 2017,
+      "make": "Ram",
+      "model": "1500 Quad Cab",
+      "type": "Pickup"
+    },
+    {
+      "id": "183",
+      "year": 2007,
+      "make": "Dodge",
+      "model": "Grand Caravan Cargo",
+      "type": "Van/Minivan"
+    },
+    {
+      "id": "184",
+      "year": 2004,
+      "make": "Hyundai",
+      "model": "Elantra",
+      "type": "Sedan, Hatchback"
+    },
+    {
+      "id": "185",
+      "year": 2000,
+      "make": "MAZDA",
+      "model": "B-Series Regular Cab",
+      "type": "Pickup"
+    },
+    {
+      "id": "186",
+      "year": 2008,
+      "make": "Ford",
+      "model": "Explorer",
+      "type": "SUV"
+    },
+    {
+      "id": "187",
+      "year": 2008,
+      "make": "Nissan",
+      "model": "Versa",
+      "type": "Sedan, Hatchback"
+    },
+    {
+      "id": "188",
+      "year": 2014,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "type": "SUV"
+    },
+    {
+      "id": "189",
+      "year": 2000,
+      "make": "Ford",
+      "model": "Explorer Sport",
+      "type": "SUV"
+    },
+    {
+      "id": "190",
+      "year": 1994,
+      "make": "Eagle",
+      "model": "Summit",
+      "type": "Sedan, Coupe, Wagon"
+    },
+    {
+      "id": "191",
+      "year": 1997,
+      "make": "Volkswagen",
+      "model": "Cabrio",
+      "type": "Convertible"
+    },
+    {
+      "id": "192",
+      "year": 2010,
+      "make": "MINI",
+      "model": "Clubman",
+      "type": "Hatchback"
+    },
+    {
+      "id": "193",
+      "year": 2008,
+      "make": "BMW",
+      "model": "7 Series",
+      "type": "Sedan"
+    },
+    {
+      "id": "194",
+      "year": 2002,
+      "make": "Pontiac",
+      "model": "Firebird",
+      "type": "Coupe, Convertible"
+    },
+    {
+      "id": "195",
+      "year": 2019,
+      "make": "Nissan",
+      "model": "Titan King Cab",
+      "type": "Pickup"
+    },
+    {
+      "id": "196",
+      "year": 1997,
+      "make": "Chevrolet",
+      "model": "2500 HD Extended Cab",
+      "type": "Pickup"
+    },
+    {
+      "id": "197",
+      "year": 1992,
+      "make": "Pontiac",
+      "model": "Grand Prix",
+      "type": "Sedan, Coupe"
+    },
+    {
+      "id": "198",
+      "year": 2004,
+      "make": "Toyota",
+      "model": "Solara",
+      "type": "Coupe, Convertible"
+    },
+    {
+      "id": "199",
+      "year": 1996,
+      "make": "GMC",
+      "model": "2500 Club Coupe",
+      "type": "Pickup"
+    },
+    {
+      "id": "200",
+      "year": 2000,
+      "make": "Dodge",
+      "model": "Ram 1500 Quad Cab",
+      "type": "Pickup"
+    },
+    {
+      "id": "201",
+      "year": 2014,
+      "make": "Honda",
+      "model": "CR-V",
+      "type": "SUV"
+    },
+    {
+      "id": "202",
+      "year": 2015,
+      "make": "INFINITI",
+      "model": "QX80",
+      "type": "SUV"
+    },
+    {
+      "id": "203",
+      "year": 1993,
+      "make": "Chevrolet",
+      "model": "Cavalier",
+      "type": "Coupe, Sedan, Wagon, Convertible"
+    },
+    {
+      "id": "204",
+      "year": 2019,
+      "make": "Kia",
+      "model": "Rio",
+      "type": "Sedan, Hatchback"
+    },
+    {
+      "id": "205",
+      "year": 2012,
+      "make": "Nissan",
+      "model": "Murano",
+      "type": "SUV"
+    },
+    {
+      "id": "206",
+      "year": 1993,
+      "make": "Jeep",
+      "model": "Cherokee",
+      "type": "SUV"
+    },
+    {
+      "id": "207",
+      "year": 2010,
+      "make": "Volkswagen",
+      "model": "New Beetle",
+      "type": "Convertible, Hatchback"
+    },
+    {
+      "id": "208",
+      "year": 2019,
+      "make": "Kia",
+      "model": "Cadenza",
+      "type": "Sedan"
+    },
+    {
+      "id": "209",
+      "year": 2016,
+      "make": "GMC",
+      "model": "Sierra 2500 HD Double Cab",
+      "type": "Pickup"
+    },
+    {
+      "id": "210",
+      "year": 1997,
+      "make": "Dodge",
+      "model": "Avenger",
+      "type": "Coupe"
+    },
+    {
+      "id": "211",
+      "year": 2007,
+      "make": "GMC",
+      "model": "Sierra 1500 Regular Cab",
+      "type": "Pickup"
+    },
+    {
+      "id": "212",
+      "year": 2008,
+      "make": "Dodge",
+      "model": "Ram 2500 Regular Cab",
+      "type": "Pickup"
+    },
+    {
+      "id": "213",
+      "year": 2015,
+      "make": "Volkswagen",
+      "model": "Jetta",
+      "type": "Sedan"
+    },
+    {
+      "id": "214",
+      "year": 2001,
+      "make": "Chevrolet",
+      "model": "Silverado 3500 Extended Cab",
+      "type": "Pickup"
+    },
+    {
+      "id": "215",
+      "year": 2008,
+      "make": "Hyundai",
+      "model": "Entourage",
+      "type": "Van/Minivan"
+    },
+    {
+      "id": "216",
+      "year": 1993,
+      "make": "Dodge",
+      "model": "Ramcharger",
+      "type": "SUV"
+    },
+    {
+      "id": "217",
+      "year": 1998,
+      "make": "Chevrolet",
+      "model": "Astro Passenger",
+      "type": "Van/Minivan"
+    },
+    {
+      "id": "218",
+      "year": 2003,
+      "make": "Chrysler",
+      "model": "PT Cruiser",
+      "type": "Wagon"
+    },
+    {
+      "id": "219",
+      "year": 2008,
+      "make": "Land Rover",
+      "model": "Range Rover",
+      "type": "SUV"
+    },
+    {
+      "id": "220",
+      "year": 1993,
+      "make": "Dodge",
+      "model": "Ram Wagon B250",
+      "type": "Van/Minivan"
+    },
+    {
+      "id": "221",
+      "year": 2004,
+      "make": "Porsche",
+      "model": "Cayenne",
+      "type": "SUV"
+    },
+    {
+      "id": "222",
+      "year": 2007,
+      "make": "HUMMER",
+      "model": "H2",
+      "type": "SUV, Pickup"
+    },
+    {
+      "id": "223",
+      "year": 2003,
+      "make": "Oldsmobile",
+      "model": "Aurora",
+      "type": "Sedan"
+    },
+    {
+      "id": "224",
+      "year": 2019,
+      "make": "Mercedes-Benz",
+      "model": "Mercedes-AMG GT",
+      "type": "Coupe, Sedan, Convertible"
+    },
+    {
+      "id": "225",
+      "year": 2018,
+      "make": "BMW",
+      "model": "M5",
+      "type": "Sedan"
+    },
+    {
+      "id": "226",
+      "year": 2013,
+      "make": "Honda",
+      "model": "Crosstour",
+      "type": "SUV"
+    },
+    {
+      "id": "227",
+      "year": 1999,
+      "make": "Honda",
+      "model": "CR-V",
+      "type": "SUV"
+    },
+    {
+      "id": "228",
+      "year": 1995,
+      "make": "Ford",
+      "model": "Taurus",
+      "type": "Sedan, Wagon"
+    },
+    {
+      "id": "229",
+      "year": 2009,
+      "make": "Mercury",
+      "model": "Grand Marquis",
+      "type": "Sedan"
+    },
+    {
+      "id": "230",
+      "year": 2008,
+      "make": "Dodge",
+      "model": "Ram 2500 Mega Cab",
+      "type": "Pickup"
+    },
+    {
+      "id": "231",
+      "year": 1992,
+      "make": "Hyundai",
+      "model": "Scoupe",
+      "type": "Coupe"
+    },
+    {
+      "id": "232",
+      "year": 2008,
+      "make": "Suzuki",
+      "model": "Reno",
+      "type": "Hatchback"
+    },
+    {
+      "id": "233",
+      "year": 2004,
+      "make": "Scion",
+      "model": "xB",
+      "type": "Hatchback"
+    },
+    {
+      "id": "234",
+      "year": 2000,
+      "make": "MAZDA",
+      "model": "Millenia",
+      "type": "Sedan"
+    },
+    {
+      "id": "235",
+      "year": 1997,
+      "make": "Chevrolet",
+      "model": "Camaro",
+      "type": "Coupe, Convertible"
+    },
+    {
+      "id": "236",
+      "year": 2008,
+      "make": "Dodge",
+      "model": "Charger",
+      "type": "Sedan"
+    },
+    {
+      "id": "237",
+      "year": 2007,
+      "make": "Kia",
+      "model": "Sedona",
+      "type": "Van/Minivan"
+    },
+    {
+      "id": "238",
+      "year": 1993,
+      "make": "Mercedes-Benz",
+      "model": "300 SE",
+      "type": "Sedan"
+    },
+    {
+      "id": "239",
+      "year": 2000,
+      "make": "Chrysler",
+      "model": "LHS",
+      "type": "Sedan"
+    },
+    {
+      "id": "240",
+      "year": 2010,
+      "make": "Ford",
+      "model": "Ranger Super Cab",
+      "type": "Pickup"
+    },
+    {
+      "id": "241",
+      "year": 2018,
+      "make": "GMC",
+      "model": "Sierra 3500 HD Regular Cab",
+      "type": "Pickup"
+    },
+    {
+      "id": "242",
+      "year": 1994,
+      "make": "Audi",
+      "model": "Cabriolet",
+      "type": "Convertible"
+    },
+    {
+      "id": "243",
+      "make": "Audi",
+      "model": "RS7",
+      "type": "Luxury Sport",
+      "year": 2017
+    },
+    {
+      "id": "244",
+      "make": "Alfa Romeo",
+      "model": "Giuilia",
+      "type": "Luxury sport",
+      "year": 2010
+    }
+  ]
+}
