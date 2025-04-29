@@ -6,7 +6,7 @@ export function getLastRowId(gridRef: React.RefObject<AgGridReact>) {
     return newId;
 }
 
-export function createFakeServer(allData: { id: number }[]) {
+export function createFakeServer(allData: any) {
     return {
         getData: (request: { startRow: number; endRow: number }) => {
             const sortRows = allData.sort((a: { id: number }, b: { id: number }) => b.id - a.id);

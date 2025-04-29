@@ -10,7 +10,7 @@ import { cars } from "../data/data.json";
 
 LicenseManager.setLicenseKey(import.meta.env.VITE_APP_AG_GRID_KEY as string);
 
-import Api from "./services";
+// import Api from "./services";
 import { ICar } from "./types";
 import { useFormik } from "formik";
 import { useToast } from "@chakra-ui/react";
