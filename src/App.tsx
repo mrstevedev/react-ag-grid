@@ -6,7 +6,9 @@ import { LicenseManager } from "ag-grid-enterprise";
 import "ag-grid-community/styles/ag-grid.css";
 import "ag-grid-community/styles/ag-theme-alpine.css";
 
-LicenseManager.setLicenseKey(process.env.VITE_APP_AG_GRID_KEY as string);
+import { cars } from "../data/data.json";
+
+LicenseManager.setLicenseKey(import.meta.env.VITE_APP_AG_GRID_KEY as string);
 
 import Api from "./services";
 import { ICar } from "./types";
@@ -17,7 +19,7 @@ import { Box, useDisclosure } from "@chakra-ui/react";
 import { CreateItemDrawer } from "./components/Drawer/CreateItemDrawer";
 import { GetRowIdParams, GridOptions, GridReadyEvent } from "ag-grid-community";
 import { createServerSideDatasource } from "./datasource/datasource";
-import { createFakeServer, getLastRowId } from "./utils";
+import { createFakeServer, getLastRowId, writeJsonToFile } from "./utils";
 import { CreateItemSchema } from "./validator";
 
 function App() {
@@ -41,11 +43,16 @@ function App() {
             };
             try {
                 const payload = JSON.stringify(newItem);
-                const response = await Api.post("/cars", payload, {
-                    headers: { "Content-Type": "application/json" }
-                });
 
-                await response.data;
+                // Commented out for netlify
+                // const response = await Api.post("/cars", payload, {
+                //     headers: { "Content-Type": "application/json" }
+                // });
+
+                // await response.data;
+
+                // Added for netlify
+                writeJsonToFile("data/data.json", payload);
 
                 gridRef.current?.api.applyServerSideTransactionAsync({
                     add: [newItem],
@@ -73,9 +80,11 @@ function App() {
     const handleGridReady = useCallback(
         async (params: GridReadyEvent) => {
             try {
-                const response = await Api.get("/cars");
-                const data = await response.data;
-                const fakeServer = createFakeServer(data);
+                // Commented out for netlify
+                // const response = await Api.get("/cars");
+                // const data = await response.data;
+
+                const fakeServer = createFakeServer(cars);
                 const datasource = createServerSideDatasource(fakeServer);
 
                 params.api.setServerSideDatasource(datasource);
